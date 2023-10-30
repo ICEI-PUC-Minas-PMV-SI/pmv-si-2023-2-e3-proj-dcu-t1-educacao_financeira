@@ -24,7 +24,7 @@ O Projeto foi construído a partir da identificação do aumento da inadimplênc
  <a href="https://github.com/Juh23">
       <h>Jussara Ribeiro de Souza<h>
        </a> 
-       <a href="https://github.com/liviamorais" title="Lívia Santos" rel="nofollow"><img src="docs/img/usuario.PNG" alt="Lívia Santos Morais" data-canonical-src="https://github.com/liviamorais" width="50vw"/></a> 
+       <a href="https://github.com/liviamorais" title="Victor hugo" rel="nofollow"><img src="docs/img/usuario.PNG" alt="Lívia Santos Morais" data-canonical-src="https://github.com/liviamorais" width="50vw"/></a> 
  <a href="https://github.com/liviamorais">
       <h>Lívia Santos Morais<h>
        </a><br><a href="https://github.com/Paollaks" title="Paolla Alves" rel="nofollow"><img src="docs/img/paolla.PNG" alt="Paolla Alves Soares" data-canonical-src="https://github.com/Paollaks" width="50vw"/></a> 
