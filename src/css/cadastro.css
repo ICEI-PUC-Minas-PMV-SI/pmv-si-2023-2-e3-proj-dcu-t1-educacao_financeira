@@ -1,0 +1,45 @@
+body {
+    background-color: #2b2d42;
+    font-family: Arial, sans-serif;
+}
+
+.cadastro-container {
+    width: 400px;
+    padding: 50px;
+    background-color: #2b2d42;
+    margin: 0 auto;
+    margin-top: 100px;
+    border-radius: 8px;
+    color: white;
+}
+
+h2 {
+    text-align: center;
+    font-size: 3em;
+}
+
+.input-container {
+    margin-bottom: 16px;
+}
+
+.input-container label {
+    display: block;
+}
+
+.input-container input {
+    width: 100%;
+    padding: 16px;
+    border-radius: 4px;
+    border: solid thin #aaa;
+}
+
+button {
+    display: block;
+    margin: 0 auto;
+    width: 70%;
+    padding: 16px;
+    background-color: #28C76F;
+    color: white;
+    border: none;
+    animation: pulse 2s infinite;
+}
