@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cadastro</title>
+    <link rel="stylesheet" type="text/css" href="css/cadastro.css">
+</head>
+<body>
+    <div class="cadastro-container">
+        <h2>Cadastre-se</h2>
+        <form action="/cadastro" method="post">
+            <div class="input-container">
+                <label for="nome"><b>Nome</b></label>
+                <input type="text" placeholder="Insira seu nome" name="nome" required>
+            </div>
+
+            <div class="input-container">
+                <label for="email"><b>Email</b></label>
+                <input type="email" placeholder="Insira seu email" name="email" required>
+            </div>
+
+            <div class="input-container">
+                <label for="psw"><b>Senha</b></label>
+                <input type="password" placeholder="Insira uma senha" name="psw" required>
+            </div>
+
+            <button type="submit">Cadastrar</button>
+        </form>
+    </div>
+</body>
+</html>
