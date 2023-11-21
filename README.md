@@ -2,9 +2,9 @@
 
 `CURSO: Sistemas de Informação`
 
-`DISCIPLINA: Projeto - Aplicações Web`
+`DISCIPLINA: Projeto - Design Centrado no usuario`
 
-`SEMESTRE: 1º`
+`SEMESTRE: 3º`
 
 O Projeto foi construído a partir da identificação do aumento da inadimplência no Brasil, fator cada vez mais preocupante dadas as condições inseguras em que o descontrole financeiro possa levar o cidadão. Como forma de orientar e aumentar a visibilidade e conhecimento sobre o assunto para o máximo de pessoas possíveis, vamos disponibilizar de forma totalmente gratuita e online uma plataforma com ferramentas para que o cidadão consiga planejar seus gastos, além de visualizar os valores reais que são pagos ao fim de um financiamento ou empréstimo, dentre outras operações financeiras.
 
@@ -16,10 +16,7 @@ O Projeto foi construído a partir da identificação do aumento da inadimplênc
  <a href="https://github.com/Astorfranco">
       <h>Astor Franco de Sena Neto<h>
        </a> 
-       <a href="https://github.com/fabianass" title="Fabiana Santos Soares" rel="nofollow"><img src="docs/img/fabiana.PNG" alt="Fabiana Santos Soares" data-canonical-src="https://github.com/fabianass" width="50vw"/></a>
- <a href="https://github.com/fabianass">
-      <h>Fabiana Santos Soares<h>
-       </a>
+      
        <a href="https://github.com/Juh23" title="Jussara Ribeiro de Souza" rel="nofollow"><img src="docs/img/usuario.PNG" alt="Jussara Ribeiro de Souza" data-canonical-src="https://github.com/Juh23" width="50vw"/></a> 
  <a href="https://github.com/Juh23">
       <h>Jussara Ribeiro de Souza<h>
