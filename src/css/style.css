@@ -210,7 +210,10 @@ div.py-5 {
   background-color: #2b2d42!important;
 }
 
-
+.user-link {
+  background-image: url('img/user.png');
+  background-size: cover;
+}
 
 
 
