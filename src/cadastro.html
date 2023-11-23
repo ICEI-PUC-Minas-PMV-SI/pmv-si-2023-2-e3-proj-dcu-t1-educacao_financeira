@@ -7,24 +7,25 @@
 <body>
     <div class="cadastro-container">
         <h2>Cadastre-se</h2>
-        <form action="/cadastro" method="post">
+        <form onsubmit="store(event)" method="post">
             <div class="input-container">
-                <label for="nome"><b>Nome</b></label>
-                <input type="text" placeholder="Insira seu nome" name="nome" required>
+                <label for="nomeId"><b>Nome</b></label>
+                <input type="text" placeholder="Insira seu nome" name="nome" id="nomeId" autocomplete="name" required>
             </div>
 
             <div class="input-container">
-                <label for="email"><b>Email</b></label>
-                <input type="email" placeholder="Insira seu email" name="email" required>
+                <label for="emailId"><b>Email</b></label>
+                <input type="email" placeholder="Insira seu email" name="email" id="emailId" autocomplete="email" required>
             </div>
 
             <div class="input-container">
-                <label for="psw"><b>Senha</b></label>
-                <input type="password" placeholder="Insira uma senha" name="psw" required>
+                <label for="pswId"><b>Senha</b></label>
+                <input type="password" placeholder="Insira uma senha" name="psw" id="pswId" autocomplete="new-password" required>
             </div>
 
             <button type="submit">Cadastrar</button>
         </form>
     </div>
+    <script src="js/main.js"></script>
 </body>
 </html>

@@ -7,20 +7,21 @@
 <body>
     <div class="login-container">
         <h2><a class="pulse"><a href="home.html" class="back-to-home" style="color: white;">Solute</a></h2>
-        <form action="/login" method="post">
+        <form onsubmit="check(event)" method="post">
             <div class="input-container">
-                <label for="uname"><b>Nome de usuário</b></label>
-                <input type="text" placeholder="Insira o nome de usuário" name="uname" required>
+                <label for="unameId"><b>Endereço de e-mail</b></label>
+                <input type="text" placeholder="Insira o seu e-mail" name="uname" id="unameId" required>
             </div>
 
             <div class="input-container">
-                <label for="psw"><b>Senha</b></label>
-                <input type="password" placeholder="Insira a senha" name="psw" required>
+                <label for="pswId"><b>Senha</b></label>
+                <input type="password" placeholder="Insira a senha" name="psw" id="pswId" required>
             </div>
 
             <button type="submit">Login</button>
             <a href="cadastro.html" class="btn-cadastro">Cadastre-se</a>
         </form>
     </div>
+    <script src="js/main.js"></script>
 </body>
 </html>
