@@ -12,7 +12,7 @@ var mat = function ( RendaMensal, calc3) {
 document.forms[2].onsubmit = function(e) {
     e.preventDefault();
 
-    var userRendaMensal = +document.forms[2].RendaMensal.value;
+    var userRendaMensal = +document.forms[2].rendaMensal.value;
 
     var precos = mat(userRendaMensal);
 
