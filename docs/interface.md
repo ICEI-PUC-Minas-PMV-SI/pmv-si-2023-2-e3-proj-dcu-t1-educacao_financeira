@@ -108,3 +108,15 @@ Para o usuário, há a possibilidade de consultar o conteúdo do site, simulador
 
 ![DSC](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-e3-proj-dcu-t1-educacao_financeira/assets/113143021/a3003014-ba9c-4182-b402-e36f4ba9c683)
 
+3.4.3 Descrições das Classes 
+|  #  | Nome | Descrição |
+|---- | ---- | --------- |
+1 | Usuário|  Consultas ao site que o usuário pode realizar|
+2 | Administrador | Gerências relativas ao administrador |
+3 | Criador de Conteúdo | Gerências específicas e criação ligados ao criador de conteúdo |
+4 | Conteúdo | Visualização dos conteúdos do site pelo usuário |
+5 | Simulador | Simulação de valores do usuário |
+6 | FAQ.. | Visualização e acréscimo de perguntas frequentes |
+7 | Artigos | Visualização de artigos postados |
+8 | Gerenciar | Gerenciamento de todo o site |
+
