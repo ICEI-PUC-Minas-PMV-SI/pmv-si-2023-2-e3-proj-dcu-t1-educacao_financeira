@@ -10,37 +10,19 @@ O Projeto foi construído a partir da identificação do aumento da inadimplênc
 
 ## Integrantes
 
-<div align="center">
 
- <a href="hhttps://github.com/Astorfranco" title="Astor Franco de Sena Neto" rel="nofollow"><img src="docs/img/usuario.PNG" alt="Astor Franco de Sena Netos" data-canonical-src="https://github.com/Astorfranco" width="50vw"/></a> 
- <a href="https://github.com/Astorfranco">
-      <h>Astor Franco de Sena Neto<h> 
+
+      Astor Franco de Sena Neto
+      Jussara Ribeiro de Souza
+      Paolla Alves Soares
+      Rafael Moreira Arantes de Castro
+      Victor Hugo Carvalho de Almeida
       
-       <a href="https://github.com/Juh23" title="Jussara Ribeiro de Souza" rel="nofollow"><img src="docs/img/usuario.PNG" alt="Jussara Ribeiro de Souza" data-canonical-src="https://github.com/Juh23" width="50vw"/></a> 
- <a href="https://github.com/Juh23">
-      <h>Jussara Ribeiro de Souza<h>
-       </a> 
-       <a href="https://github.com/Crvalhohugo" title="Victor hugo" rel="nofollow"><img src="docs/img/usuario.PNG" alt="Victor Hugo Carvalho de Almeida" data-canonical-src="https://github.com/Crvalhohugo" width="50vw"/></a> 
- <a href="https://github.com/Crvalhohugo">
-      <h>Victor Hugo Carvalho de Almeida<h>
-       </a><br><a href="https://github.com/Paollaks" title="Paolla Alves" rel="nofollow"><img src="docs/img/paolla.PNG" alt="Paolla Alves Soares" data-canonical-src="https://github.com/Paollaks" width="50vw"/></a> 
- <a href="https://github.com/Paollaks">
-      <h>Paolla Alves Soares<h>
-       </a>
-       <a href="https://github.com/rafaeldecastro195" title="Rafael Moreira" rel="nofollow"><img src="docs/img/usuario.PNG" alt="Rafael Moreira Arantes de Castro" data-canonical-src="https://github.com/rafaeldecastro195" width="50vw"/></a> 
- <a href="https://github.com/rafaeldecastro195">
-      <h>Rafael Moreira Arantes de Castro<h>
    
-</div>           
-        
+ 
 ## Orientador
   
-<div align="center">  
-  <a href="https://github.com/SimonePucEAD" title="Simone de Assis Alves da Silva" rel="nofollow"><img src="docs/img/usuario.PNG" alt="Simone de Assis Alves da Silva" data-canonical-src="https://github.com/SimonePucEAD" width="50vw"/></a><br> 
- <a href="https://github.com/SimonePucEAD">
-      <h>Simone de Assis Alves da Silva<h>
-       </a>
-</div> 
+Fábio Martins de Oliveira
   
 # Planejamento
 
