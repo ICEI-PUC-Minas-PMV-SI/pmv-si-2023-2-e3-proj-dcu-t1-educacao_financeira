@@ -104,11 +104,7 @@ A Figura 2 mostra o diagrama de classes do sistema de Educação Financeira.
 Para o usuário, há a possibilidade de consultar o conteúdo do site, simuladores, FAQ e artigos. O administrador deve ter registrado o nome, CPF, email e endereço, e ele pode atualizar a cotação das moedas e monitorar dados. O criador de conteúdo é uma herança de administrador e além de possuir suas propriedades, ele pode criar e excluir artigos. A classe gerenciar está ligada ao administrador e usuário e tem a função de gerenciar todas as páginas e gerar relatórios de acesso. Todas as classes que representam páginas possuem um endereço web e um id e, à exceção de simuladores, que possuem métodos para fazer as simulações, há métodos de visualização.
 
 
+## Figura 2: Diagrama de Classes do Sistema.
 
-
-
-
-
-Figura 2: Diagrama de Classes do Sistema.
-
+![DSC](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-e3-proj-dcu-t1-educacao_financeira/assets/113143021/a3003014-ba9c-4182-b402-e36f4ba9c683)
 
