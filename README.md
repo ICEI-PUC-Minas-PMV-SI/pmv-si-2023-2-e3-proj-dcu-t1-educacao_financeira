@@ -29,7 +29,7 @@ Fábio Martins de Oliveira
 | Etapa         | Atividades |
 |  :----:   | ----------- |
 | ETAPA 1         |[Introdução](docs/context.md) <br> [Estado da Arte](docs/especification.md) |
-| ETAPA 2         |[Especificação de Requisitos de Software](docs/interface.md) <br> [Template Padrão](docs/template.md) |
+| ETAPA 2         |[Especificação de Requisitos de Software](docs/interface.md) <br>
 | ETAPA 3         |[Programação de Funcionalidades - HTML e CSS](docs/development.md) |
 | ETAPA 4        |[Programação de Funcionalidades - Javascript](docs/development.md) <br> [Testes de Software ](docs/tests.md) |
 | ETAPA 5         | [Apresentação](presentation/README.md) |
