@@ -4,10 +4,7 @@
 
 O site em HTML/CSS/JS é um projeto estático, logo pode ser utilizado tanto em servidores...
 
-## Histórico de versões
+# Acesso ao site #
 
-### [0.1.0] - DD/MM/AAAA
-#### Adicionado
-- Adicionado ...
-
+https://soluteducacaofinanceira.netlify.app/
 >
