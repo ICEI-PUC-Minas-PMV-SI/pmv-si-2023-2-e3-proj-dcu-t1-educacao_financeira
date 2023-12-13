@@ -5,9 +5,12 @@ Nesse contexto, a compreensão e aplicação de princípios básicos relacionado
 
 
 ## Problema
-Com isso, percebemos que o descontrole financeiro  é decorrente da falta de educação financeira, o qual  causa enormes transtornos para pessoas  e os familiares. O sistema de ensino ainda não inclui educação financeira como matéria essencial na vida dos alunos, sendo raras as exceções em instituições privadas. 
-O reflexo da falta de ensino do tema fica claro no teste da cultura financeira realizado pelo programa internacional de alunos (PISA) Dos 15 países o Brasil teve o pior desempenho no estudo divulgado em maio de 2017.Alguns outros pontos também podem ser levados em consideração: taxa de desemprego, inflação, reflexos econômicos pandêmicos etc. Mesmo estes poderiam ser amenizados caso houvesse a cultura de educação financeira no país. 
-Consequentemente, é necessário abordar e preparar instruções de forma clara e objetiva sobre o tema, de maneira que o ensino não se restringe apenas a matemática e sim em um contexto natural em diferentes áreas, segundo o professor Ruy César Pietropaolo, dessa maneira o ensino ficaria mais objetivo, e cada vez mais acessível aos brasileiros.
+Isso evidencia que a falta de controle financeiro decorre da carência de educação financeira, ocasionando consideráveis transtornos para indivíduos e suas famílias. O sistema educacional ainda não incorpora a educação financeira como disciplina fundamental na formação dos alunos, sendo exceções raras em instituições privadas.
+
+O impacto da ausência desse ensino é notório no teste de cultura financeira realizado pelo Programa Internacional de Avaliação de Alunos (PISA), onde o Brasil teve o pior desempenho entre os 15 países no estudo divulgado em maio de 2017. Outros aspectos como taxa de desemprego, inflação e os reflexos econômicos da pandemia também podem ser considerados. Tais situações poderiam ser atenuadas se houvesse uma cultura de educação financeira no país.
+
+Portanto, torna-se imperativo abordar e oferecer orientações de forma clara e objetiva sobre o tema, expandindo o ensino não somente no âmbito da matemática, mas inserindo-o de maneira natural em diversas áreas, conforme mencionado pelo professor Ruy César Pietropaolo. Essa abordagem tornaria o ensino mais preciso e cada vez mais acessível à população brasileira.
+
 
 
 
